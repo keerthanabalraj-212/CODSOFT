@@ -13,9 +13,15 @@ I've successfully completed Task 2 of my CodSoft internship, which involved deve
 
 
 
+Codsoft Internship: Portfolio 
 
 
 
+I've successfully completed Task 3 of my CodSoft internship, which involved developing a Portfolio. 
+
+
+
+ This project involved designing and developing a personal portfolio website, showcasing my skills, projects. The portfolio was built using HTML and CSS, demonstrating my proficiency in front-end web development and  ability to create visually appealing and functional web pages.
 
 
 
