@@ -24,5 +24,7 @@ I've successfully completed Task 3 of my CodSoft internship, which involved deve
  This project involved designing and developing a personal portfolio website, showcasing my skills, projects. The portfolio was built using HTML and CSS, demonstrating my proficiency in front-end web development and  ability to create visually appealing and functional web pages.
 
 
+Codsoft Internship: Tribute page
 
+I've successfully completed Task 4 of my CodSoft internship, which involved developing a comprehensive tribute page showcasing Dr. Kalam's life and achievements, featuring a photo, detailed career highlights, notable awards, and educational milestones. This project allowed me to blend design and content to honor a remarkable leader who continues to inspire generations. Grateful for the opportunity to celebrate his legacy through web development
 
